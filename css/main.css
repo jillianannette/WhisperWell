@@ -1,0 +1,54 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 300;
+}
+
+h3 {
+    text-shadow: 4px 2px 8px #000;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+}
+
+a {
+    color: #efefef;
+    text-shadow: 4px 2px 8px #000;
+}
+
+.coming {
+    margin-top: 50px;
+    width: 635px;
+    padding: 20px;
+    background-color: #fff;
+    opacity: .85;
+}
+
+.social {
+	margin-top: 75px;
+}
+
+.btn-primary:hover {
+    color: #333;
+    background-color: #eee;
+    border-color: #eee;
+}
+
+a:hover {
+    color: #fff;
+}
+
+header.masthead .overlay {
+    opacity: .2;
+}
+
+header.masthead {
+	padding-top: 100px;
+	border: 15px solid white;
+}
