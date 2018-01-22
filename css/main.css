@@ -52,3 +52,8 @@ header.masthead {
 	padding-top: 100px;
 	border: 15px solid white;
 }
+
+.logo {
+    width: 100%;
+    max-width: 370px;
+}
